@@ -17,7 +17,7 @@ dependencies = [
 ]
 
 [project.scripts]
-spy = "scrapler.cli:app"
+spy = "scrapler.scrapler:app"
  
 [build-system]
 requires = ["hatchling"]
